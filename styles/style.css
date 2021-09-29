@@ -18,6 +18,12 @@ h2 {
     font-weight: normal;
 }
 
+h3{
+    font-weight: normal;
+    margin: 0;
+    font-style: italic;
+}
+
 h1, h2 {
     margin: 0;
 }
